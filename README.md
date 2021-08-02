@@ -2,9 +2,9 @@
 ###### Tamara Bojovic
 
 
-# CMPUT 275 Final Project - Python Chess Game
+Python Chess Game Human Vs Ai Bot
 
-For our final project, we decided to make a player versus computer implementation
+It is a player versus computer implementation
 of chess using the pygame library for Python. It includes all the essential rules
 for chess. The computer player uses the minimax strategy with alpha-beta pruning
 for generating and deciding moves. It explores all possible moves, then explores
